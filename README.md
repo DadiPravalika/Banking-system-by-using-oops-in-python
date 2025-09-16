@@ -29,4 +29,5 @@ Open the PPT (OOPS_Banking _system_PPT.pptx) to view the project presentation.
 
 👨‍💻 Author
 
-Dadi Pravalika | Passionate about OOPS & Real-World A
+Dadi Pravalika | Passionate about OOPS & Real-World Applications
+
